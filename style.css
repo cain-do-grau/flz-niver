@@ -1,0 +1,9 @@
+body{
+    background-image: url(bom-dia.png);
+    background-size: cover;
+}
+#myCanvas {
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+}
